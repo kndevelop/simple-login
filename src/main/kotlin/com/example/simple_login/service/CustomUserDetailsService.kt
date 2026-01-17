@@ -1,6 +1,6 @@
-package com.example.demo.service
+package com.example.simple_login.service
 
-import com.example.demo.repository.UserRepository
+import com.example.simple_login.repository.UserRepository
 import org.springframework.security.core.userdetails.UserDetails
 import org.springframework.security.core.userdetails.UserDetailsService
 import org.springframework.security.core.userdetails.UsernameNotFoundException
